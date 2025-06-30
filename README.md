@@ -55,8 +55,10 @@ Esta herramienta automatiza el proceso de identificación de correos electrónic
 5. Descarga e instala Chrome WebDriver:
    - Visita https://chromedriver.chromium.org/downloads o https://googlechromelabs.github.io/chrome-for-testing/
    - Descarga la versión de ChromeDriver que coincida exactamente con tu versión de Chrome
+   - Debes descargar con nombre de la columna Binary -> chrome
    - Para verificar tu versión de Chrome, abre Chrome y ve a: ⋮ > Ayuda > Acerca de Google Chrome
    - Descomprime el archivo descargado y guarda el ejecutable en una ubicación conocida
+   - Debes añadir la ruta absoluta hasta el chrome.exe
    - Esta ruta del ejecutable es la que deberás proporcionar al ejecutar el script
 
 ## Uso
